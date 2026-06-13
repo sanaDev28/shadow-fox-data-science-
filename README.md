@@ -40,5 +40,5 @@ Conclusion
 Data visualization transforms raw data into meaningful insights. Matplotlib and Seaborn provide powerful tools for creating effective and attractive visualizations that support data-driven decision making.
 
 
-Sana
+Vaishnavi Choudhary
 ShadowFox Internship Project
